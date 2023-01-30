@@ -1,0 +1,30 @@
+
+table,tr,th,td{
+
+    border: 20px thin rgb(5, 5, 5)  ;
+
+ border-spacing: 1px;
+   
+   
+}
+
+th,td {
+
+    background-color: rgba(217, 224, 224, 0.881);
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    font-weight:bolder;
+    border-radius: 1px;
+}
+input {
+
+border-style: hidden;
+background-color:inherit;
+
+}
+
+.fr{
+background-color: darkgray;
+color: black;
+}
